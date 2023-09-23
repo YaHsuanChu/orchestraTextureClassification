@@ -1,0 +1,206 @@
+# W. A. Mozart, Symphony N. 41
+
+InstList: Wood:Fl.Ob.Fg|Brass:Hrn.Trp|Perc:Timp|Strings:Vln1.Vln2.Vla.Vc.Cb
+
+# """"" EXPOSITION """""
+#!P """""""" Theme A """"""""
+[1-2]           <aaa|ss|s|aaaaa>          a:mel-u s:sparse-u
+[3-4]           <000|00|0|ahhh0>          a:mel-u h:harm-h
+[5-6]           <aaa|ss|s|aaaaa>          a:mel-u s:sparse-u
+[7-8]           <000|00|0|ahhh0>          a:mel-u h:harm-h
+[9-14]          <rrr|rr|r|tsstt>          t:sparse-h r:rhythm-h s:scale-u {CR 0.5 t[9-14]u[9-14]}
+[15-16]         <ttu|tu|u|tssuu>          ~s:scale-u t:sparse-h u:sparse-h {CR 0.25 t[15-16]u[15-16]}
+[17]            <vvv|vv|v|vvvvv>          v:arp-u
+[18]            <vvv|vv|w|vvvvv>          v:arp-u w:rhythm-u
+[19-20]         <sss|st|t|ttttt>          s:sparse-h t:sparse-h {CR 0.25 t[19-20]s[19-20]}
+[21]            <vvv|vx|w|vvvvv>          v:osc-h w:rhythm-u x:repeat_note-u
+[22]            <www|ww|w|vvvvv>          v:-u w:-u
+[23]            <hhh|hh|h|hhhhh>          h:harm-u
+[24]            <a(a0)0|t0|0|ss000>       t:arp-u a:mel-p s:scale-u {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[25]            <a(a0)0|t0|0|00000>       ~t:arp-u ~a:mel-p {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[26-27]         <i(i0)(h0)|00|0|aa000>    h:harm-u i:harm-p a:mel-u {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[28]            <a(a0)t|00|0|ss000>       t:arp-u a:mel-p s:scale-u {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[29]            <a(a0)t|00|0|00000>       ~t:arp-u ~a:mel-p {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[30]            <h(h0)h|00|0|aa000>       h:harm-h a:mel-u {CR 2 a[24-25,28-29]a[26-27,30-31]}
+[31-34]         <v(v0)v|00|0|aa000>       a:mel-u v:rhythm-h
+[35-36]         <000|00|0|aahh0>          ~a:mel-u h:harm-p
+[37-38]         <b(bt)t|ss|s|aaaaa>       a:mel-u b:mel-p t:arp-u s:sparse-u
+[39]            <hha|ii|s|aarar>          a:mel-p h:harm-u r:repeat_note-u i:harm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[40]            <hha|ii|s|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u i:rhythm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[41]            <hha|ii|s|aarar>          a:mel-p h:harm-u r:repeat_note-u i:harm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[42]            <hha|ii|s|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u i:rhythm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[43]            <hha|ii|s|aarar>          a:mel-p h:harm-u r:repeat_note-u i:harm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[44-46]         <hha|ii|s|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u i:rhythm-u s:sparse-u {CR 1 i[40,41,43,44]s[39,41,43]}
+[47-48]         <vvv|vv|v|vvvvv>          v:osc-h
+[49-52]         <rrr|rv|0|sttss>          r:rhythm-h v:-u s:sparse-h t:scale-u {CR 0.5 s[49-52]t[49-52]}
+[53-55]         <ttt|tu|0|tssuu>          s:scale-u t:sparse-h u:sparse-h {CR 0.25 t[53-55]s[53-55]}
+
+#!S """""""" Theme B """"""""
+[56-57]         <000|00|0|ao000>          a:mel-u o:batt-u
+[58-59]         <000|00|0|aobbb>          ~a:mel-u b:mel-u ~o:batt-u
+[60]            <000|00|0|aobbb>          ~a:mel-u b:sparse-u ~o:batt-u
+[61]            <000|00|0|a0bbb>          ~a:mel-u ~b:sparse-u 
+[62-63]         <00a|00|0|ao000>          a:mel-u o:batt-u
+[64-65]         <00a|00|0|aobbb>          ~a:mel-u b:mel-u ~o:batt-u
+[66]            <00a|00|0|aobbb>          ~a:mel-u b:sparse-u ~o:batt-u
+[67]            <00a|00|0|aohhh>          a:mel-u o:batt-u h:harm-u
+[68]            <a0a|00|0|atsss>          ~a:mel-u s:sparse-u t:arp-u
+[69-70]         <a0a|00|0|atsss>          ~a:mel-u s:mel-u t:arp-u
+[72]            <000|00|0|atsss>          ~a:mel-u s:harm-u ~t:arp-u
+[73-76]         <000|00|0|atsss>          ~a:mel-u s:sparse-u ~t:arp-u
+[77-79]         <000|00|0|avvvv>          ~a:mel-u v:rhythm-u
+# [80]            <000|00|0|00000>
+[81-84]         <ah(ah)|vv|r|attss>       a:mel-u h:harm-p r:rhythm-u s:repeat_note-u t:repeat_note-u v:-u
+[85-86]         <hhh|vv|w|ttsss>          t:arp-p ~s:repeat_note-u h:harm-p v:harm-u w:rhythm-u
+[87]            <vvv|ww|0|arsss>          a:mel-u ~s:repeat_note-u v:arp-u w:harm-u r:rhythm-u
+[88]            <vvv|ww|0|arsss>          a:mel-u ~s:repeat_note-u v:arp-u w:sparse-u r:rhythm-u
+[89-91]         <hha|vv|t|aasas>          a:mel-p h:harm-u v:-u t:sparse-u ~s:repeat_note-h
+[92]            <hhh|tt|t|aasas>          ~a:mel-p h:harm-u ~t:sparse-u ~s:repeat_note-h
+[93]            <hhs|vv|t|aasas>          ~a:mel-p h:harm-u v:-u ~t:sparse-u ~s:repeat_note-h
+[94-96]         <a(ha)a|vv|s|raaaa>       a:mel-p h:harm-u v:-u r:rhythm-u s:sparse-u
+[97-98]         <v0w|sx|0|avwww>          a:mel-u v:-u w:-h s:sparse-u x:-u
+[99-100]        <000|00|0|t0000>          t:arp-u
+
+#!C """""""" Codetta """"""""
+[101-102]       <000|00|0|aasts>          a:mel-u t:arp-u s:sparse-u
+[103-104]       <0h0|00|0|aasts>          ~a:mel-u ~t:arp-u ~s:sparse-u h:harm-u
+[105-106]       <0ha|00|0|aasts>          ~a:mel-u ~t:arp-u ~s:sparse-u ~h:harm-u
+[107-108]       <0va|00|0|aavvv>          ~a:mel-u v:-h
+[109-110]       <ava|00|0|aavvv>          ~a:mel-u ~v:-h
+# (repeat)
+[111-112]       <saa|ss|0|braaa>          a:mel-p b:decmel-u r:repeat_note-u s:rhythm-u
+[113]           <saa|ss|0|aaaaa>          ~a:mel-p ~s:rhythm-u
+[114-115]       <saa|ss|0|braaa>          ~a:mel-p b:decmel-u r:repeat_note-u ~s:rhythm-u
+[116]           <saa|ss|0|aaaaa>          ~a:mel-p ~s:rhythm-u
+[117-119]       <ttt|tu|0|suuuu>          s:scale-u t:sparse-h u:sparse-h {CR 0.25 t[117-119]s[117-119]}
+[120]           <vvv|vv|v|vvvvv>          v:-h
+
+
+#!Dev """""""" DEVELOPPEMENT """"""""
+[121-122]       <hhh|00|0|00000>          h:harm-u
+[123-124]       <000|00|0|aasts>          a:mel-u t:arp-u s:sparse-u
+[125-128]       <hh0|00|0|aasts>          ~a:mel-u ~t:arp-u ~s:sparse-u h:harm-u
+[129-130]       <000|00|0|aavvv>          v:-u a:mel-u {CR 2 a[129-130]a[131-132]}
+[131-132]       <0aa|00|0|00vvv>          ~v:-u a:mel-u {CR 2 a[129-130]a[131-132]}
+[133]           <sr0|00|0|aattt>          r:rhythm-h a:mel-u s:rhythm-h t:sparse-u {CR 1 (as)[133,135,137](at)[134,136,138]}
+[134]           <0rt|00|0|ssaaa>          ~r:rhythm-h s:sparse-u a:mel-u t:rhythm-h {CR 1 (as)[133,135,137](at)[134,136,138]}
+[135]           <sr0|00|0|aattt>          ~r:rhythm-h a:mel-u s:rhythm-h t:sparse-u {CR 1 (as)[133,135,137](at)[134,136,138]}
+[136]           <0rt|00|0|ssaaa>          ~r:rhythm-h s:sparse-u a:mel-u t:rhythm-h {CR 1 (as)[133,135,137](at)[134,136,138]}
+[137]           <sr0|00|0|aattt>          ~r:rhythm-h a:mel-u s:rhythm-h t:sparse-u {CR 1 (as)[133,135,137](at)[134,136,138]}
+[138]           <0rt|00|0|ssaaa>          ~r:rhythm-h s:sparse-u a:mel-u t:rhythm-h {CR 1 (as)[133,135,137](at)[134,136,138]}
+[139]           <0vw|00|0|aabbb>          a:mel-u b:decmel-u v:-p w:-p
+[140-142]       <xvw|00|0|aabbb>          ~a:mel-u ~b:decmel-u v:-p w:-p x:-u
+[143-144]       <bvw|00|0|aabbb>          ~a:mel-u ~b:decmel-u v:-p w:-p
+[145-147]       <avw|00|0|aabbb>          ~a:mel-u ~b:decmel-u v:-p w:-p
+# CR 0.25 in CR 2
+[148-149]       <sss|00|0|aattt>          s:sparse-h a:mel-u t:sparse-u {CR 2 a[149-150,152]t[148,151]}
+[150]           <sss|00|0|ttaaa>          ~s:sparse-h t:sparse-u a:mel-u {CR 2 a[149-150,152]t[148,151]}
+[151]           <vvv|00|0|ssaaa>          v:-h s:sparse-u a:mel-u {CR 2 a[149-150,152]t[148,151]}
+[152]           <vvv|00|0|aasss>          v:scale-h a:mel-u s:sparse-u {CR 2 a[149-150,152]t[148,151]}
+[153-154]       <000|00|0|avv00>          ~a:mel-u v:-h
+[155-156]       <hav|00|0|00000>          a:mel-h h:harm-u v:-u
+[157-160]       <000|00|0|thhh0>          t:arp-u h:harm-h
+[161-162]       <00b|00|0|aaaaa>          a:mel-u b:mel-p
+[163-164]       <00h|i0|0|aa000>          a:mel-u h:harm-p i:harm-u
+[165-166]       <bbh|00|0|aaaaa>          a:mel-u b:mel-p h:harm-u
+[167-168]       <ibh|00|0|aaaaa>          ~a:mel-u b:mel-p ~h:harm-u i:harm-u
+[169-170]       <b(bi)h|00|0|aaaaa>       ~a:mel-u ~b:mel-p ~h:harm-u i:harm-u
+[171]           <ttt|ss|s|uuttt>          s:sparse-h t:sparse-h u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[172]           <ttt|00|0|uuttt>          ~t:sparse-h u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[173]           <ttt|ss|0|uuttt>          s:sparse-h ~t:sparse-h ~u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[174]           <ttt|00|0|uuttt>          ~t:sparse-h ~u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[175]           <ttt|ss|0|uuttt>          s:sparse-h ~t:sparse-h ~u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[176]           <ttt|00|0|uuttt>          ~t:sparse-h ~u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[177]           <ttt|ss|s|uuttt>          s:sparse-h ~t:sparse-h ~u:scale-u {CR 0.25 t[171-178]u[171-178]}
+[178]           <ttt|00|s|uuttt>          ~t:sparse-h ~u:scale-u ~s:sparse-h {CR 0.25 t[171-178]u[171-178]}
+[179-180]       <ssu|ss|v|ttuuu>          s:sparse-h t:sparse-h u:scale-u v:sparse-u {CR 0.25 s[179-180](tu)[179-180]}
+[181-182]       <000|00|0|avv00>          a:mel-u v:-h
+[183-184]       <a(ib)v|h0|0|00000>       a:mel-u b:decmel-u h:harm-u v:-u i:harm-u
+[185-187]       <0aa|ht|t|00000>          a:mel-p ~h:harm-u t:sparse-u
+[188]           <sss|ht|t|sssss>          s:scale-u ~h:harm-u ~t:sparse-u
+
+
+# """"" RECAPITULATION """""
+#!P' """""""" Theme A """"""""
+[189-190]       <aaa|ss|s|aaaaa>          a:mel-u s:sparse-u
+[191-192]       <000|00|0|ahhhh>          a:mel-u h:harm-p
+[193-194]       <aaa|ss|s|aaaaa>          a:mel-u s:sparse-u
+[195-196]       <000|00|0|ahhhh>          a:mel-u h:harm-p
+[197-202]       <rrr|rr|r|sttss>          s:sparse-h r:rhythm-h t:scale-u {CR 0.5 s[197-202]t[197-202]}
+[203-204]       <ttu|tu|u|tssuu>          s:scale-u t:sparse-h u:sparse-h {CR 0.25 u[203-204]s[203-204]}
+[205]           <vvv|vv|v|vvvvv>          v:arp-u 
+[206]           <vvv|vv|w|vvvvv>          ~v:arp-u w:rhythm-u
+[207-208]       <sss|st|t|ttttt>          s:sparse-h t:sparse-h {CR 0.25 s[207-208]t[207-208]}
+[209]           <vvv|vr|w|vvvvv>          v:osc-h w:-u r:repeat_note-u
+[210]           <vvv|vv|v|wwwww>          v:-h w:-h
+[211]           <vvv|vv|v|vvvvv>          v:harm-u
+# """"" Minor modulation  """""
+[212]           <aat|00|0|ss000>          t:arp-u a:mel-p s:scale-u {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[213]           <aa0|00|0|00000>          ~a:mel-p {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[214-215]       <hh0|00|0|aa000>          h:harm-p a:mel-u {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[216]           <aaa|00|0|ssstt>          t:arp-u a:mel-p s:scale-u {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[217]           <aaa|00|0|00000>          ~a:mel-p {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[218]           <aa0|h0|0|ss000>          h:harm-u a:mel-p s:-u {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[219]           <aa0|00|0|ss000>          ~a:mel-p ~s:-u {CR 2 a[212-213,216-217]a[214-215,218-219]}
+[220]           <w(vw)v|00|0|abx00>       a:mel-u b:decmel-u v:-u w:-u x:-u {CR 0.5 w[220-223]v[220-223]} {CR 1 x[220,222]x[221,223]}
+[221]           <w(vw)v|00|0|ab0xx>       ~a:mel-u ~b:decmel-u v:-u w:-u x:-u {CR 0.5 w[220-223]v[220-223]} {CR 1 x[220,222]x[221,223]}
+[222]           <w(vw)v|00|0|abx00>       ~a:mel-u ~b:decmel-u v:-u w:-u x:-u {CR 0.5 w[220-223]v[220-223]} {CR 1 x[220,222]x[221,223]}
+[223]           <w(vw)v|00|0|ab0xx>       ~a:mel-u ~b:decmel-u v:-u w:-u x:-u {CR 0.5 w[220-223]v[220-223]} {CR 1 x[220,222]x[221,223]}
+[224]           <bh0|00|0|ahhhh>          ~a:mel-u b:decmel-u h:harm-p
+[225-226]       <b(bt)t|ss|s|aaaaa>       a:mel-u b:mel-p t:arp-u s:sparse-u
+[227]           <hha|ii|v|aarar>          ~a:mel-p h:harm-u r:repeat_note-u i:harm-u v:-u {CR 1 i[228,230,232]v[227,229,231]}
+[228]           <hha|ss|0|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u s:rhythm-u {CR 1 i[228,230,232]v[227,229,231]}
+[229]           <hha|ii|v|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u i:harm-u v:-u {CR 1 i[228,230,232]v[227,229,231]}
+[230]           <hha|ss|0|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u s:rhythm-u {CR 1 i[228,230,232]v[227,229,231]}
+[231]           <hha|ii|v|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u i:harm-u v:-u {CR 1 i[228,230,232]v[227,229,231]}
+[232-234]       <hha|ss|0|aarar>          ~a:mel-p ~h:harm-u ~r:repeat_note-u s:rhythm-u
+[235]           <vvv|vv|w|vvvvv>          v:osc-h w:-u
+[236]           <vvv|vv|w|avvvv>          v:harm-h w:rhythm-u a:mel-u
+[237-240]       <rrr|rv|s|sttss>          r:rhythm-h v:-u s:sparse-h t:scale-u {CR 0.5 s[237-240]t[237-240]}
+[241-243]       <vvv|vs|s|vttss>          ~t:scale-u v:-h ~s:sparse-h {CR 0.25 v[241-243]s[241-243]}
+
+#!S' """""""" Theme B """"""""
+[244-245]       <000|00|0|ao000>          a:mel-u o:batt-u
+[246]           <000|00|0|aobbb>          ~a:mel-u b:mel-u ~o:batt-u
+[247]           <000|00|0|ao000>          ~a:mel-u ~o:batt-u
+[248]           <000|00|0|aobbb>          ~a:mel-u b:sparse-u ~o:batt-u
+[249]           <a0a|00|0|a0000>          ~a:mel-u
+[250-251]       <a0a|00|0|ao000>          ~a:mel-u o:batt-u
+[252]           <a0a|00|0|aobbb>          ~a:mel-u b:mel-u ~o:batt-u
+[253]           <a0a|00|0|ao000>          ~a:mel-u ~o:batt-u
+[254-256]       <0a0|v0|0|aobbb>          ~a:mel-u b:decmel-u ~o:batt-u v:-u
+[257]           <aa0|v0|0|aobbb>          ~a:mel-u ~b:decmel-u ~o:batt-u ~v:-u
+[258-259]       <a0a|a0|0|aobbb>          ~a:mel-u ~b:decmel-u ~o:batt-u
+[260-262]       <00a|v0|0|atbbb>          ~a:mel-u ~b:decmel-u t:arp-u v:-u
+[263]           <0ba|v0|0|atbbb>          ~a:mel-u ~b:decmel-u ~t:arp-u ~v:-u
+[264]           <aba|v0|0|atbbb>          ~a:mel-u ~b:decmel-u ~t:arp-u ~v:-u
+[265-267]       <vv0|00|0|avvvv>          ~a:mel-u v:rhythm-p
+# [268]           <000|00|0|00000>
+[269-270]       <ahh|hh|s|aarrr>          a:mel-u h:harm-p r:repeat_note-h s:rhythm-u
+[271-272]       <ahh|00|0|arrrr>          ~a:mel-u ~h:harm-p ~r:repeat_note-h
+[273-274]       <a(ha)(ah)|ss|s|arrrr>    ~a:mel-u ~r:repeat_note-p ~h:harm-u s:rhythm-u
+[275-276]       <sss|ss|s|sssss>          s:sparse-h
+[277-279]       <aaa|v0|s|aarrr>          a:mel-p r:repeat_note-u s:sparse-h v:-u
+[280]           <hhh|ss|s|avrrr>          ~a:mel-p ~r:repeat_note-u ~s:sparse-h h:harm-p v:-u
+[281]           <aar|ss|s|avarr>          ~a:mel-p ~r:repeat_note-u ~s:sparse-h ~v:-u
+[282-284]       <vav|ww|w|raaaa>          a:mel-p r:rhythm-u v:-h w:rhythm-u
+[285-286]       <yvw|vv|x|rsvww>          r:rhythm-u v:-h w:-u s:rhythm-u x:-u y:-u
+[287-288]       <000|00|0|t0000>          t:arp-u
+
+#!C' """""""" Codetta """"""""
+[289-290]       <000|00|0|aasts>          a:mel-u t:arp-u s:sparse-u
+[291-292]       <0h0|0s|s|aasts>          ~a:mel-u ~t:arp-u ~s:sparse-u h:harm-u
+[293-294]       <ah0|0s|s|aasts>          ~a:mel-u ~t:arp-u ~s:sparse-u ~h:harm-u
+[295-296]       <0v0|vv|v|aavvv>          ~a:mel-u v:-h
+[297-298]       <ava|vv|v|aavvv>          ~a:mel-u ~v:-h
+[299-300]       <aaa|ss|r|bbaaa>          a:mel-p b:decmel-u r:rhythm-u s:rhythm-u
+[301]           <aaa|ss|r|aaaaa>          ~a:mel-p ~r:rhythm-u ~s:rhythm-u
+[302-303]       <aaa|ss|r|bbaaa>          ~a:mel-p b:decmel-u ~r:rhythm-u ~s:rhythm-u
+[304-305]       <aaa|ss|r|aaaaa>          ~a:mel-p ~r:rhythm-u ~s:rhythm-u
+[306-308]       <ttt|tt|t|suu0u>          s:scale-u t:sparse-h u:sparse-h {CR 0.25 t[306-308]u[306-308]}
+
+#!Cod """""""" CODA """"""""
+[309]           <vvv|vv|r|vvvvv>          v:osc-h r:rhythm-u
+[310]           <vvv|ww|r|sssss>          ~v:osc-h w:arp-u s:arp-u ~r:rhythm-u
+[311]           <vvv|ww|r|vvsss>          v:rhythm-h r:repeat_note-u w:osc-u s:arp-u
+[312-313]       <sss|rr|s|sssss>          s:sparse-h r:sparse-p

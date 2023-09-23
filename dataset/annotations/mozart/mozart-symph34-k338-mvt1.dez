@@ -1,0 +1,6972 @@
+{
+    "labels": [
+        {
+            "duration": 8,
+            "start": 0,
+            "tag": "<tt|tt|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 0,
+            "tag": "t:mel-u r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 8,
+            "tag": "<tt|ss|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 8,
+            "tag": "s:rhythm-u ~t:mel-u ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 16,
+            "tag": "<0t|00|0|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 16,
+            "tag": "~t:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 8,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 8,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "5",
+            "start": 0,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 24,
+            "tag": "<tt|tt|t|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 24,
+            "staff": "2",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "6",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "7",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "8",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "9",
+            "start": 0,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 32,
+            "tag": "<ar|ss|s|aaar>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 32,
+            "tag": "a:mel-p r:repeat_note-u s:rhythm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 24,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 36,
+            "tag": "<aa|aa|s|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 36,
+            "tag": "a:mel-u ~s:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 32,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 32,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 32,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 32,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 32,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 32,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 32,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 32,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 32,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 40,
+            "tag": "<tt|tt|t|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 36,
+            "tag": "~s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 36,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 48,
+            "tag": "<0a|a0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 40,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 56,
+            "tag": "<0h|00|0|hhhh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 48,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 60,
+            "tag": "<00|rr|0|0000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 60,
+            "tag": "r:rhythm-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 56,
+            "tag": "h:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 64,
+            "tag": "<us|00|0|ssss>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 64,
+            "tag": "u:rhythm-p s:arp-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 60,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 60,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 68,
+            "tag": "<us|rr|0|ssss>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 68,
+            "tag": "r:rhythm-p ~u:rhythm-p ~s:arp-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 76,
+            "tag": "<rr|r0|0|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 76,
+            "tag": "r:rhythm-p a:mel u:arp v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 76,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 12,
+            "staff": "1",
+            "start": 64,
+            "tag": "u:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 64,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 68,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 68,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 64,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 64,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 64,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 64,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 80,
+            "tag": "<hh|hs|s|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 80,
+            "tag": "h:harm s:rhythm-u ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 80,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 76,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 76,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 76,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 84,
+            "tag": "<rr|r0|0|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 84,
+            "tag": "r:rhythm-p ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 84,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 80,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 80,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 80,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 80,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 80,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 88,
+            "tag": "<hh|hs|s|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 88,
+            "tag": "h:harm s:rhythm-u ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 88,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 84,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 84,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 84,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 92,
+            "tag": "<rr|r0|0|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 92,
+            "tag": "r:rhythm-p ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 92,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 88,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 88,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 88,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 88,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 88,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 96,
+            "tag": "<hh|hs|s|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 96,
+            "tag": "h:harm s:rhythm-u ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 96,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 92,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 92,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 92,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 100,
+            "tag": "<rr|r0|0|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 100,
+            "tag": "r:rhythm-p ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 100,
+            "tag": "{CR 1 r[20,22,24,26]s[21,23,25]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 96,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 96,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 96,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 96,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 96,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 104,
+            "tag": "<hh|hh|0|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 104,
+            "tag": "h:harm ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 100,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 100,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 100,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 108,
+            "tag": "<hh|hh|w|auvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 108,
+            "tag": "w:sparse ~h:harm ~a:mel ~u:arp ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 120,
+            "tag": "<hv|hh|0|rsvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 120,
+            "tag": "r:repeat_note s:rhythm ~h:harm ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 104,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "5",
+            "start": 108,
+            "tag": "w:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 44,
+            "staff": "6",
+            "start": 76,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 44,
+            "staff": "7",
+            "start": 76,
+            "tag": "u:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 124,
+            "tag": "<hv|hh|0|usvv>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 124,
+            "tag": "u:repeat_note ~s:rhythm ~h:harm ~v:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 120,
+            "tag": "r:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 132,
+            "tag": "<ra|rs|0|uvaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 132,
+            "tag": "r:rhythm-h a:mel-u s:rhythm-h u:rhythm v:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 28,
+            "staff": "1",
+            "start": 104,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 120,
+            "tag": "~v:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "3",
+            "start": 104,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "4",
+            "start": 104,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 124,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 120,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 56,
+            "staff": "8",
+            "start": 76,
+            "tag": "v:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 56,
+            "staff": "9",
+            "start": 76,
+            "tag": "v:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 140,
+            "tag": "<sa|ss|0|usaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 140,
+            "tag": "~a:mel-u ~s:rhythm-h ~u:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 132,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 132,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 132,
+            "tag": "v:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 144,
+            "tag": "<tt|t0|0|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 140,
+            "tag": "~s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 132,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 140,
+            "tag": "~s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 132,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 132,
+            "tag": "u:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 140,
+            "tag": "~s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 132,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 132,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 148,
+            "tag": "<s0|00|0|ss00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 148,
+            "tag": "s:scale-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 144,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 152,
+            "tag": "<ss|hh|0|ssss>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 152,
+            "tag": "h:harm-u ~s:scale-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 156,
+            "tag": "<00|00|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 156,
+            "tag": "a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 148,
+            "tag": "s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 152,
+            "tag": "~s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 152,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 152,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 148,
+            "tag": "s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 148,
+            "tag": "s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 152,
+            "tag": "~s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 152,
+            "tag": "~s:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 164,
+            "tag": "<0r|00|0|aahh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 164,
+            "tag": "r:scale h:harm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 156,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 156,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 172,
+            "tag": "<0i|00|0|alli>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 172,
+            "tag": "i:sparse-u l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "start": 172,
+            "tag": "{CR 0.25 i[44-46]l[44-46]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 164,
+            "tag": "r:scale",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 156,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 164,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 164,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 184,
+            "tag": "<0r|00|0|aarr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 184,
+            "tag": "r:rhythm ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 172,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 172,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 172,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 172,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 192,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 192,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 184,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 184,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 184,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 196,
+            "tag": "<rh|00|0|aahh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 196,
+            "tag": "r:scale h:harm ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 204,
+            "tag": "<mi|00|0|aali>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 204,
+            "tag": "m:harm-h i:sparse-u l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 204,
+            "tag": "{CR 0.25 i[52-54]l[52-54]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 196,
+            "tag": "r:scale",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 196,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 196,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 196,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 212,
+            "tag": "<0i|h0|0|aali>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 212,
+            "tag": "h:harm ~i:sparse-u ~l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 212,
+            "tag": "{CR 0.25 i[52-54]l[52-54]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 204,
+            "tag": "m:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "start": 216,
+            "tag": "<(b0)i|h0|0|aaii>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 216,
+            "tag": "b:mel h:harm-u ~i:sparse-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "start": 216,
+            "tag": "{CR 0.25 (ai)[55-58]b[55-58]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 212,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 204,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 232,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 232,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 216,
+            "tag": "b:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "2",
+            "start": 204,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 216,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 216,
+            "tag": "~i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "9",
+            "start": 204,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 236,
+            "tag": "<0h|00|0|aahh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 236,
+            "tag": "h:rhythm-h ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 244,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 244,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 236,
+            "tag": "h:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 236,
+            "tag": "h:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 236,
+            "tag": "h:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 248,
+            "tag": "<0h|00|0|aaah>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 248,
+            "tag": "h:harm-u a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 92,
+            "staff": "6",
+            "start": 156,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 64,
+            "staff": "7",
+            "start": 184,
+            "tag": "~a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 252,
+            "tag": "<00|00|0|a000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 252,
+            "tag": "a:melc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 248,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 248,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 248,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 248,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 248,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 260,
+            "tag": "<00|00|0|ab00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 260,
+            "tag": "b:melc ~a:melc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 268,
+            "tag": "<00|h0|0|ab00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 268,
+            "tag": "h:harm-u ~a:melc ~b:melc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 276,
+            "tag": "<(h0)r|h0|0|ab0r>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 276,
+            "tag": "~h:harm-u r:repeat_note-u ~a:melc ~b:melc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 284,
+            "tag": "<hr|hs|s|abur>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 284,
+            "tag": "s:rhythm-u s:rhythm u:arp ~h:harm-u ~r:repeat_note-u ~a:melc ~b:melc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 292,
+            "tag": "<aa|r0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 292,
+            "tag": "a:mel-p r:rhythm-h u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 276,
+            "tag": "~h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 276,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "3",
+            "start": 268,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 284,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 284,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 40,
+            "staff": "6",
+            "start": 252,
+            "tag": "a:melc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "7",
+            "start": 260,
+            "tag": "b:melc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 284,
+            "tag": "u:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 276,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 296,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 296,
+            "tag": "~a:mel-p h:harm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 292,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 300,
+            "tag": "<aa|hs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 300,
+            "tag": "~a:mel-p ~h:harm s:sparse-h ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 304,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 304,
+            "tag": "~a:mel-p h:harm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 296,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 300,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 300,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 308,
+            "tag": "<aa|hs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 308,
+            "tag": "~a:mel-p ~h:harm s:sparse-h ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 312,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 312,
+            "tag": "~a:mel-p h:harm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 304,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 308,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 308,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 316,
+            "tag": "<aa|hs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 316,
+            "tag": "~a:mel-p ~h:harm s:sparse-h ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 320,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 320,
+            "tag": "~a:mel-p h:harm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 312,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 316,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 316,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 324,
+            "tag": "<00|0s|s|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 324,
+            "tag": "a:mel-u s:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 32,
+            "staff": "1",
+            "start": 292,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "2",
+            "start": 292,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 320,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "6",
+            "start": 292,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "7",
+            "start": 292,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "8",
+            "start": 292,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "9",
+            "start": 292,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 328,
+            "tag": "<hh|r0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 328,
+            "tag": "h:harm r:rhythm s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 324,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 324,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 340,
+            "tag": "<hh|r0|0|bbuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 340,
+            "tag": "b:mel-p u:repeat_note ~h:harm ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 324,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 324,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 328,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 328,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 344,
+            "tag": "<bb|r0|0|bbuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 344,
+            "tag": "~b:mel-p ~u:repeat_note ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 328,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 328,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 348,
+            "tag": "<00|0i|i|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 348,
+            "tag": "a:mel-u i:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 344,
+            "tag": "~b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 344,
+            "tag": "~b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 20,
+            "staff": "3",
+            "start": 328,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 340,
+            "tag": "b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 340,
+            "tag": "b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 340,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 340,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 352,
+            "tag": "<hh|r0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 352,
+            "tag": "h:harm r:rhythm s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 348,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 348,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 364,
+            "tag": "<hh|ri|i|aauu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 364,
+            "tag": "i:sparse u:repeat_note ~h:harm ~r:rhythm ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 352,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 352,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 372,
+            "tag": "<hh|hi|i|b0uu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 372,
+            "tag": "b:melc ~h:harm ~i:sparse ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 20,
+            "staff": "3",
+            "start": 352,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "6",
+            "start": 348,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "7",
+            "start": 348,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 376,
+            "tag": "<hh|rr|s|bc00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 376,
+            "tag": "r:sparse-h s:rhythm c:melc ~b:melc ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 372,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 364,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "5",
+            "start": 364,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 364,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 364,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 380,
+            "tag": "<uu|(uh)v|v|awuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 380,
+            "tag": "u:osc-h h:harm v:sparse-u a:mel w:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 28,
+            "staff": "1",
+            "start": 352,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "2",
+            "start": 352,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 376,
+            "tag": "r:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 376,
+            "tag": "r:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 376,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 372,
+            "tag": "b:melc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 376,
+            "tag": "c:melc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 392,
+            "tag": "<0r|ss|s|uurr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 392,
+            "tag": "r:arp-u s:rhythm u:arp-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "staff": "1",
+            "start": 380,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 380,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "3",
+            "start": 380,
+            "tag": "u:osc-h h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 380,
+            "tag": "v:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "5",
+            "start": 380,
+            "tag": "v:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 380,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 380,
+            "tag": "w:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 380,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 380,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 396,
+            "tag": "<v0|00|0|0000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 396,
+            "tag": "v:arp",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 392,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 392,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 392,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 392,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 392,
+            "tag": "u:arp-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 392,
+            "tag": "u:arp-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 392,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 392,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 400,
+            "tag": "<00|00|0|a000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 400,
+            "tag": "a:mel",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 396,
+            "tag": "v:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 408,
+            "tag": "<0h|00|0|ahhh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 408,
+            "tag": "h:harm ~a:mel",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 412,
+            "tag": "<rs|hu|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 412,
+            "tag": "r:rhythm-h s:repeat_note-u h:harm u:sparse v:arp w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 408,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 400,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 408,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 408,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 408,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 416,
+            "tag": "<rs|hh|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 416,
+            "tag": "~r:rhythm-h ~s:repeat_note-u ~h:harm ~u:sparse ~v:arp ~w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 412,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 420,
+            "tag": "<rs|hh|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 420,
+            "tag": "~r:rhythm-h ~s:repeat_note-u ~h:harm ~u:sparse ~v:arp ~w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 424,
+            "tag": "<rs|hh|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 424,
+            "tag": "~r:rhythm-h ~s:repeat_note-u ~h:harm ~u:sparse ~v:arp ~w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 428,
+            "tag": "<0r|00|u|siii>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 428,
+            "tag": "r:rhythm s:arp i:sparse-h ~u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 412,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 412,
+            "tag": "s:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 412,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 416,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 412,
+            "tag": "v:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 412,
+            "tag": "w:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 412,
+            "tag": "w:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 412,
+            "tag": "s:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 432,
+            "tag": "<0r|00|0|siii>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 432,
+            "tag": "~r:rhythm ~s:arp ~i:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 20,
+            "staff": "5",
+            "start": 412,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 436,
+            "tag": "<ri|ii|u|ssri>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 436,
+            "tag": "i:sparse-h u:sparse ~s:arp ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 428,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 428,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 428,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 428,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 444,
+            "tag": "<00|00|u|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 444,
+            "tag": "a:mel-u ~u:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 436,
+            "tag": "~r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 436,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 436,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 436,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 436,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 428,
+            "tag": "s:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 436,
+            "tag": "~s:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 436,
+            "tag": "~r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 436,
+            "tag": "i:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 448,
+            "tag": "<00|00|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 448,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 444,
+            "tag": "~u:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 452,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 452,
+            "tag": "a:mel-u h:harm r:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 444,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 444,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 448,
+            "tag": "~a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 448,
+            "tag": "~a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 456,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 456,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 452,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 452,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 460,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 460,
+            "tag": "r:sparse ~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 464,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 464,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 460,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 460,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 468,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 468,
+            "tag": "r:sparse ~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 472,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 472,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 468,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 468,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 476,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 476,
+            "tag": "r:sparse ~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 480,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 480,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 476,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 476,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 484,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 484,
+            "tag": "r:sparse ~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 488,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 488,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 484,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 484,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 492,
+            "tag": "<hh|hr|r|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 492,
+            "tag": "r:sparse ~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 496,
+            "tag": "<hh|h0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 496,
+            "tag": "~a:mel-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 492,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 492,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 500,
+            "tag": "<ii|00|0|srru>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 500,
+            "tag": "i:sparse s:arp r:rhythm-p u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 500,
+            "tag": "{CR 0.25 u[126-133]s[126-133]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 48,
+            "staff": "1",
+            "start": 452,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "2",
+            "start": 452,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "3",
+            "start": 452,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "6",
+            "start": 452,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "7",
+            "start": 452,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "8",
+            "start": 452,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "9",
+            "start": 452,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 504,
+            "tag": "<(h0)0|00|0|srru>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 504,
+            "tag": "h:harm ~s:arp ~r:rhythm-p ~u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "start": 504,
+            "tag": "{CR 0.25 u[126-133]s[126-133]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 500,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 500,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "start": 516,
+            "tag": "<uh|00|0|srru>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 516,
+            "tag": "h:harm ~s:arp ~r:rhythm-p ~u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "start": 516,
+            "tag": "{CR 0.25 u[126-133]s[126-133]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 12,
+            "staff": "1",
+            "start": 504,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 532,
+            "tag": "<rr|h0|0|0000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 532,
+            "tag": "r:osc-u h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 532,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 516,
+            "tag": "~u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 516,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "6",
+            "start": 500,
+            "tag": "s:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "7",
+            "start": 500,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "8",
+            "start": 500,
+            "tag": "r:rhythm-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "9",
+            "start": 500,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 536,
+            "tag": "<ii|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 536,
+            "tag": "i:harm-u a:mel-u s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 536,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 532,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 532,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 540,
+            "tag": "<rr|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 540,
+            "tag": "r:osc-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 540,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 536,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 536,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 544,
+            "tag": "<ii|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 544,
+            "tag": "i:harm-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 544,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 540,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 540,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 548,
+            "tag": "<rr|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 548,
+            "tag": "r:osc-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 548,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 544,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 544,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 552,
+            "tag": "<00|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 552,
+            "tag": "~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 552,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 548,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 548,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 556,
+            "tag": "<rr|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 556,
+            "tag": "r:osc-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 556,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "start": 560,
+            "tag": "<ii|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 560,
+            "tag": "i:harm-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 560,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 556,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 556,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 564,
+            "tag": "<rr|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 564,
+            "tag": "r:osc-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 564,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 560,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 560,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 568,
+            "tag": "<ii|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 568,
+            "tag": "i:harm-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 568,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 564,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 564,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 572,
+            "tag": "<rr|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 572,
+            "tag": "r:osc-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 572,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 568,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 568,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 576,
+            "tag": "<ii|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 576,
+            "tag": "i:harm-u ~a:mel-u ~s:sparse-h ~h:harm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 576,
+            "tag": "{CR 1 r[134,136,138,140,142,144]a[135,137,139,141,143,145]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 572,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 572,
+            "tag": "r:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 580,
+            "tag": "<r0|00|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 580,
+            "tag": "r:scale ~a:mel-u ~s:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 580,
+            "tag": "{CR 1 r[146]u[147]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 576,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 576,
+            "tag": "i:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "3",
+            "start": 532,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 584,
+            "tag": "<h0|00|0|uuhs>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 584,
+            "tag": "h:harm u:scale-u ~s:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 584,
+            "tag": "{CR 1 r[146]u[147]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 580,
+            "tag": "r:scale",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "6",
+            "start": 536,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "7",
+            "start": 536,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 48,
+            "staff": "8",
+            "start": 536,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 588,
+            "tag": "<r0|h0|0|arrs>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 588,
+            "tag": "r:osc-p h:harm a:mel s:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 588,
+            "tag": "{CR 0.5 r[148-149]a[148-149]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 584,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 584,
+            "tag": "u:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 584,
+            "tag": "u:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 584,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 52,
+            "staff": "9",
+            "start": 536,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 596,
+            "tag": "<i0|h0|0|auu0>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 596,
+            "tag": "i:sparse u:osc ~h:harm ~a:mel",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 588,
+            "tag": "r:osc-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 588,
+            "tag": "r:osc-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 588,
+            "tag": "r:osc-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 588,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 600,
+            "tag": "<00|h0|0|auu0>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 600,
+            "tag": "~h:harm ~a:mel ~u:osc",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 596,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "start": 604,
+            "tag": "<0i|h0|0|aiii>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 604,
+            "tag": "i:sparse a:mel ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 588,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 596,
+            "tag": "u:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 596,
+            "tag": "u:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 620,
+            "tag": "<(ai)0|hi|0|0000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 620,
+            "tag": "~a:mel ~i:sparse ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 604,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 604,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 604,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 604,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 604,
+            "tag": "i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 628,
+            "tag": "<tt|tt|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 628,
+            "tag": "t:mel-u r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 620,
+            "tag": "~a:mel ~i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 40,
+            "staff": "3",
+            "start": 588,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 620,
+            "tag": "~i:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 636,
+            "tag": "<tt|ss|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 636,
+            "tag": "s:rhythm-u ~t:mel-u ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 644,
+            "tag": "<rr|rs|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 644,
+            "tag": "r:rhythm-h s:sparse-h u:repeat_note a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 644,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 636,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 636,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "5",
+            "start": 628,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 628,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 648,
+            "tag": "<hh|hs|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 648,
+            "tag": "h:harm-h s:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 648,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 644,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 644,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 644,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 644,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 644,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 652,
+            "tag": "<rr|r0|0|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 652,
+            "tag": "r:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 652,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 648,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 648,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 648,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 648,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 648,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 656,
+            "tag": "<hh|hs|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 656,
+            "tag": "h:harm-h s:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 656,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 652,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 652,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 652,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 660,
+            "tag": "<rr|r0|0|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 660,
+            "tag": "r:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 660,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 656,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 656,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 656,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 656,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 656,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 664,
+            "tag": "<hh|hs|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 664,
+            "tag": "h:harm-h s:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 664,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 660,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 660,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 660,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 668,
+            "tag": "<rr|r0|0|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 668,
+            "tag": "r:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 668,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 664,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 664,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 664,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 664,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 664,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 672,
+            "tag": "<hh|hs|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 672,
+            "tag": "h:harm-h s:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 672,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 668,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 668,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 668,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 676,
+            "tag": "<rr|r0|0|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 676,
+            "tag": "r:rhythm-h ~u:repeat_note ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 676,
+            "tag": "{CR 1 r[162,164,166,168,170]s[163,165,167,169]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 672,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 672,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 672,
+            "tag": "h:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 672,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 672,
+            "tag": "s:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 680,
+            "tag": "<vv|vv|x|vvww>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 680,
+            "tag": "v:osc x:sparse w:arp-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 676,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 676,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 676,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 36,
+            "staff": "6",
+            "start": 644,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 36,
+            "staff": "7",
+            "start": 644,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 36,
+            "staff": "8",
+            "start": 644,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 36,
+            "staff": "9",
+            "start": 644,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 688,
+            "tag": "<tt|tt|t|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 680,
+            "tag": "x:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 680,
+            "tag": "v:osc",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 680,
+            "tag": "w:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 680,
+            "tag": "w:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 692,
+            "tag": "<tt|tt|t|rrtt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 692,
+            "tag": "r:scale-u ~t:rhythm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 696,
+            "tag": "<rr|hh|s|rrrr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 696,
+            "tag": "h:harm s:rhythm ~r:scale-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 688,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 700,
+            "tag": "<00|00|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 700,
+            "tag": "a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 696,
+            "tag": "~r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 696,
+            "tag": "~r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 696,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 696,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 696,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 692,
+            "tag": "r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 692,
+            "tag": "r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 696,
+            "tag": "~r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 696,
+            "tag": "~r:scale-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 708,
+            "tag": "<0r|00|0|ahah>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 708,
+            "tag": "r:scale h:harm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 700,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 700,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 716,
+            "tag": "<0i|00|0|alli>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 716,
+            "tag": "i:sparse-u l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "start": 716,
+            "tag": "{CR 0.25 i[180-182]l[180-182]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 708,
+            "tag": "r:scale",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 708,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 700,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 708,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 728,
+            "tag": "<0r|00|0|aarr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 728,
+            "tag": "r:rhythm ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 716,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 716,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 716,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 716,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 736,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 736,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 728,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 728,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 728,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 740,
+            "tag": "<rh|00|0|aahh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 740,
+            "tag": "r:scale h:harm ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 748,
+            "tag": "<mi|00|0|aali>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 748,
+            "tag": "m:harm-h i:sparse-u l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 748,
+            "tag": "{CR 0.25 i[188-190]l[188-190]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 740,
+            "tag": "r:scale",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 740,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 740,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 740,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 756,
+            "tag": "<0i|h0|0|aali>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 756,
+            "tag": "h:harm ~i:sparse-u ~l:sparse ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 756,
+            "tag": "{CR 0.25 i[188-190]l[188-190]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 748,
+            "tag": "m:harm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "start": 760,
+            "tag": "<(b0)i|h0|0|aaii>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 760,
+            "tag": "b:mel h:harm-u ~i:sparse-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "start": 760,
+            "tag": "{CR 0.25 (ai)[191-194]b[191-194]}",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 756,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 748,
+            "tag": "l:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 776,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 776,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 760,
+            "tag": "b:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "2",
+            "start": 748,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 760,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 760,
+            "tag": "~i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "9",
+            "start": 748,
+            "tag": "i:sparse-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 780,
+            "tag": "<0h|00|0|aahh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 780,
+            "tag": "h:repeat_note-h ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 788,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 788,
+            "tag": "~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 780,
+            "tag": "h:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 780,
+            "tag": "h:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 780,
+            "tag": "h:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 792,
+            "tag": "<0h|00|0|aabh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 792,
+            "tag": "b:mel h:harm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 796,
+            "tag": "<aa|rs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 796,
+            "tag": "a:mel-p r:rhythm s:sparse-h u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 792,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 96,
+            "staff": "6",
+            "start": 700,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 68,
+            "staff": "7",
+            "start": 728,
+            "tag": "~a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 792,
+            "tag": "b:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 792,
+            "tag": "h:harm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 800,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 800,
+            "tag": "h:harm ~a:mel-p ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 796,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 796,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 796,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 804,
+            "tag": "<aa|rs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 804,
+            "tag": "s:sparse-h ~a:mel-p r:rhythm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 800,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 808,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 808,
+            "tag": "h:harm ~a:mel-p ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 804,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 804,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 804,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 812,
+            "tag": "<aa|rs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 812,
+            "tag": "s:sparse-h ~a:mel-p r:rhythm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 808,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 816,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 816,
+            "tag": "h:harm ~a:mel-p ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 812,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 812,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 812,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 820,
+            "tag": "<aa|rs|s|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 820,
+            "tag": "s:sparse-h ~a:mel-p r:rhythm ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 816,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 824,
+            "tag": "<aa|h0|0|auaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 824,
+            "tag": "h:harm ~a:mel-p ~u:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 820,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 820,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 820,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 828,
+            "tag": "<00|0s|s|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 828,
+            "tag": "a:mel-u s:sparse-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 32,
+            "staff": "1",
+            "start": 796,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "2",
+            "start": 796,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 824,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "6",
+            "start": 796,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "7",
+            "start": 796,
+            "tag": "u:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "8",
+            "start": 796,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "9",
+            "start": 796,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 832,
+            "tag": "<hh|rh|u|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 832,
+            "tag": "h:harm r:rhythm u:sparse s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 828,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 828,
+            "tag": "s:sparse-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 836,
+            "tag": "<hh|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 836,
+            "tag": "~h:harm ~s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 832,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 832,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 832,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 848,
+            "tag": "<hh|hr|r|bbuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 848,
+            "tag": "r:rhythm-h b:mel-p u:repeat_note-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 20,
+            "staff": "6",
+            "start": 828,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 20,
+            "staff": "7",
+            "start": 828,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 832,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 832,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 852,
+            "tag": "<bh|hr|r|bbuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 852,
+            "tag": "~r:rhythm-h ~b:mel-p ~u:repeat_note-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 20,
+            "staff": "1",
+            "start": 832,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 856,
+            "tag": "<bb|hr|r|bbuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 856,
+            "tag": "~r:rhythm-h ~b:mel-p ~u:repeat_note-u ~h:harm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 24,
+            "staff": "2",
+            "start": 832,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 860,
+            "tag": "<00|00|0|aa00>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 860,
+            "tag": "a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 852,
+            "tag": "~b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 856,
+            "tag": "~b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "3",
+            "start": 836,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 848,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "5",
+            "start": 848,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 848,
+            "tag": "b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 848,
+            "tag": "b:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 848,
+            "tag": "u:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 848,
+            "tag": "u:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 864,
+            "tag": "<hh|rh|u|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 864,
+            "tag": "h:harm r:rhythm u:sparse s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "start": 868,
+            "tag": "<hh|h0|0|aass>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 868,
+            "tag": "~h:harm ~s:rhythm-u ~a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 864,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 864,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 864,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "start": 880,
+            "tag": "<hh|hr|s|aauu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 880,
+            "tag": "u:repeat_note-h h:harm r:rhythm s:rhythm a:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "start": 880,
+            "tag": "(s<r)",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 864,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 864,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "3",
+            "start": 868,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 20,
+            "staff": "6",
+            "start": 860,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 20,
+            "staff": "7",
+            "start": 860,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 864,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 864,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 896,
+            "tag": "<uu|hv|v|wauu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 896,
+            "tag": "u:osc-h h:harm v:sparse a:mel w:repeat_note",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 880,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 880,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 880,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "4",
+            "start": 880,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "5",
+            "start": 880,
+            "tag": "s:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 880,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 880,
+            "tag": "a:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 880,
+            "tag": "u:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 880,
+            "tag": "u:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 908,
+            "tag": "<0r|ss|s|uurr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 908,
+            "tag": "r:arp-u s:repeat_note u:arp-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 12,
+            "staff": "1",
+            "start": 896,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "2",
+            "start": 896,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "3",
+            "start": 896,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 896,
+            "tag": "v:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "5",
+            "start": 896,
+            "tag": "v:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 896,
+            "tag": "w:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 896,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "8",
+            "start": 896,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "9",
+            "start": 896,
+            "tag": "u:osc-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 912,
+            "tag": "<v0|00|0|0000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 912,
+            "tag": "v:arp",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 908,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "3",
+            "start": 908,
+            "tag": "s:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 908,
+            "tag": "s:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "5",
+            "start": 908,
+            "tag": "s:repeat_note",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "6",
+            "start": 908,
+            "tag": "u:arp-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 908,
+            "tag": "u:arp-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 908,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 908,
+            "tag": "r:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 916,
+            "tag": "<00|00|0|a000>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 916,
+            "tag": "a:mel",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "1",
+            "start": 912,
+            "tag": "v:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 924,
+            "tag": "<0h|00|0|ahhh>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 924,
+            "tag": "h:harm ~a:mel",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "start": 928,
+            "tag": "<rs|hu|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 928,
+            "tag": "r:rhythm-h s:repeat_note-u h:harm u:sparse v:arp w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "2",
+            "start": 924,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "6",
+            "start": 916,
+            "tag": "a:mel",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "7",
+            "start": 924,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "8",
+            "start": 924,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "9",
+            "start": 924,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 932,
+            "tag": "<rs|hh|u|vwws>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 932,
+            "tag": "~r:rhythm-h ~s:repeat_note-u ~h:harm ~u:sparse ~v:arp ~w:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 928,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 944,
+            "tag": "<tt|tt|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 944,
+            "tag": "t:mel-u r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 928,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 928,
+            "tag": "s:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 928,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "4",
+            "start": 932,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "5",
+            "start": 928,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 928,
+            "tag": "v:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "7",
+            "start": 928,
+            "tag": "w:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 928,
+            "tag": "w:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 928,
+            "tag": "s:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 952,
+            "tag": "<tt|ss|r|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 952,
+            "tag": "s:rhythm-u ~t:mel-u ~r:rhythm",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 960,
+            "tag": "<0t|00|0|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 960,
+            "tag": "~t:mel-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "1",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 952,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 952,
+            "tag": "s:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "5",
+            "start": 944,
+            "tag": "r:rhythm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 968,
+            "tag": "<tt|tt|t|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 24,
+            "staff": "2",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "6",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "7",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "8",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "9",
+            "start": 944,
+            "tag": "t:mel-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 976,
+            "tag": "<0a|a0|0|aaaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 968,
+            "tag": "t:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 984,
+            "tag": "<ha|hr|r|ssaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 984,
+            "tag": "h:harm a:osc-u r:sparse s:repeat_note-h",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 976,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 992,
+            "tag": "<0r|00|0|suru>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 992,
+            "tag": "r:rhythm-h s:arp u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 992,
+            "tag": "(u<r)",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 984,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 984,
+            "tag": "a:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 984,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 984,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 984,
+            "tag": "r:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 984,
+            "tag": "s:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 984,
+            "tag": "s:repeat_note-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 984,
+            "tag": "a:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 984,
+            "tag": "a:osc-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 1000,
+            "tag": "<ru|ru|u|ssuu>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 1000,
+            "tag": "~r:rhythm-h ~s:arp ~u:sparse",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "start": 1000,
+            "tag": "(u<r)",
+            "type": "Texture High Level"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 992,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 992,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 992,
+            "tag": "r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 1008,
+            "tag": "<0r|h0|s|a0rr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 1008,
+            "tag": "r:repeat_note-u h:harm s:sparse a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 1000,
+            "tag": "~r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 1000,
+            "tag": "~u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 1000,
+            "tag": "~r:rhythm-h",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 1000,
+            "tag": "~u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 1000,
+            "tag": "~u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 992,
+            "tag": "s:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 1000,
+            "tag": "~s:arp",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 1000,
+            "tag": "~u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 992,
+            "tag": "u:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "start": 1012,
+            "tag": "<hr|hh|s|aarr>",
+            "type": "Texture"
+        },
+        {
+            "duration": 12,
+            "start": 1012,
+            "tag": "~r:repeat_note-u ~h:harm ~s:sparse ~a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "start": 1024,
+            "tag": "<ha|ah|s|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 16,
+            "start": 1024,
+            "tag": "u:repeat_note-u ~h:harm ~s:sparse ~a:mel-p",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 1008,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 1008,
+            "tag": "h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "6",
+            "start": 1008,
+            "tag": "a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 12,
+            "staff": "7",
+            "start": 1012,
+            "tag": "~a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 1008,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 1008,
+            "tag": "r:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 1040,
+            "tag": "<sa|ar|r|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 1040,
+            "tag": "s:arp-u a:arp-u r:rhythm-u ~u:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 28,
+            "staff": "1",
+            "start": 1012,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "2",
+            "start": 1024,
+            "tag": "~a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "3",
+            "start": 1024,
+            "tag": "~a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 28,
+            "staff": "4",
+            "start": 1012,
+            "tag": "~h:harm",
+            "type": "Pattern"
+        },
+        {
+            "duration": 32,
+            "staff": "5",
+            "start": 1008,
+            "tag": "s:sparse",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "8",
+            "start": 1024,
+            "tag": "~a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 16,
+            "staff": "9",
+            "start": 1024,
+            "tag": "~a:mel-p",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 1044,
+            "tag": "<sa|as|r|uuaa>",
+            "type": "Texture"
+        },
+        {
+            "duration": 4,
+            "start": 1044,
+            "tag": "~s:arp-u ~a:arp-u ~r:rhythm-u ~u:repeat_note-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 1040,
+            "tag": "r:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "start": 1048,
+            "tag": "<tt|tt|t|tttt>",
+            "type": "Texture"
+        },
+        {
+            "duration": 8,
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Texture Def"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 1040,
+            "tag": "s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "1",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 1040,
+            "tag": "a:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "2",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 1040,
+            "tag": "a:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "3",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "staff": "4",
+            "start": 1044,
+            "tag": "~s:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "4",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 1040,
+            "tag": "r:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "5",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "6",
+            "start": 1024,
+            "tag": "u:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "6",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 24,
+            "staff": "7",
+            "start": 1024,
+            "tag": "u:repeat_note-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "7",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 1040,
+            "tag": "a:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "8",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 1040,
+            "tag": "a:arp-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 8,
+            "staff": "9",
+            "start": 1048,
+            "tag": "t:rhythm-u",
+            "type": "Pattern"
+        },
+        {
+            "duration": 4,
+            "start": 0,
+            "tag": "P",
+            "type": "Structure"
+        },
+        {
+            "duration": 4,
+            "start": 156,
+            "tag": "S",
+            "type": "Structure"
+        },
+        {
+            "duration": 4,
+            "start": 452,
+            "tag": "Dev",
+            "type": "Structure"
+        },
+        {
+            "duration": 4,
+            "start": 628,
+            "tag": "P'",
+            "type": "Structure"
+        },
+        {
+            "duration": 4,
+            "start": 700,
+            "tag": "S'",
+            "type": "Structure"
+        },
+        {
+            "duration": 4,
+            "start": 944,
+            "tag": "Cod",
+            "type": "Structure"
+        }
+    ],
+    "meta": {
+        "date": "2022XXXX",
+        "layout": [
+            {
+                "filter": {
+                    "type": "Structure"
+                },
+                "style": {
+                    "line": "bot.1"
+                }
+            },
+            {
+                "filter": {
+                    "type": "Texture"
+                },
+                "style": {
+                    "line": "top.2"
+                }
+            },
+            {
+                "filter": {
+                    "type": "Texture Def"
+                },
+                "style": {
+                    "line": "top.3"
+                }
+            },
+            {
+                "filter": {
+                    "type": "Texture High Level"
+                },
+                "style": {
+                    "line": "bot.2"
+                }
+            }
+        ],
+        "producer": "XXX",
+        "title": "XXX"
+    }
+}

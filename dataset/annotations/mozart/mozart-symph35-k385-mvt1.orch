@@ -1,0 +1,160 @@
+# W. A. Mozart, Symphony N. 35 Haffner
+
+InstList: Wood:Fl.Ob.Cl.Fg|Brass:Hrn.Trp|Perc:Timp|Strings:Vln1.Vln2.Vla.Vc
+
+# I consider the parts of Viola I and II as one unique part (they are rarely separated and have the same function).
+# Also Cello and Contrabass play the same part all the time
+
+#Saint-Foix says the first movement does not have a second
+#subject. And the movement is often called monothematic.
+#This is not quite true. (from thesis of Oscar Olin Chism, B. A.)
+
+# Allegro con spirito
+
+# """""""" EXPOSITION """"""""
+#!P """""""" Theme A """"""""
+[1-5]   <tttt|rr|r|tttt> t:mel-u r:rhythm
+[6]     <0000|00|0|a000> a:mel
+[7]     <000h|00|0|ahhh> h:harm ~a:mel
+[8]     <0000|00|0|a000> ~a:mel
+[9]     <000h|00|0|ahhh> h:harm ~a:mel
+[10-12] <000i|00|0|aiii> i:sparse ~a:mel
+[13]    <00bb|hh|v|0sbb> b:melc-u h:harm s:repeat_note v:rhythm
+[14]    <00bb|uh|0|0sbb> u:rhythm ~b:melc-u ~h:harm ~s:repeat_note {CR 1 u[14,16]v[15,17]}
+[15]    <ccbb|hv|v|csbb> c:melc-u v:rhythm ~b:mel-u ~h:harm ~s:repeat_note {CR 1 u[14,16]v[15,17]}
+[16]    <ccbb|uh|h|csbb> u:rhythm ~c:melc-u ~b:mel-u ~h:harm ~s:repeat_note {CR 1 u[14,16]v[15,17]}
+[17]    <ccbb|hv|v|csbb> v:rhythm ~c:melc-u ~b:mel-u ~h:harm ~s:repeat_note {CR 1 u[14,16]v[15,17]}
+[18]    <ccbb|vv|v|csbb> ~v:rhythm ~c:melc-u ~b:mel-u ~s:repeat_note
+
+# """""""" Bridge """"""""
+[19]    <ccbb|vv|v|rrbb> r:scale ~v:rhythm ~c:melc-u ~b:mel-u
+[20]    <rrrr|ss|v|rrrr> s:repeat_note ~r:scale ~v:rhythm
+[21]    <0000|00|0|rr00> ~r:scale
+[22]    <rrrr|ss|v|rrrr> ~s:repeat_note ~r:scale ~v:rhythm
+[23]    <0000|00|0|r000> ~r:scale
+[24-25] <hhhr|hu|v|awss> h:harm r:scale u:rhythm v:rhythm a:mel w:repeat_note s:scale {CR 0.5 (su)[24-25](ar)[24-25]} (v<u)
+[26]    <hhhh|hi|i|awxx> i:sparse x:repeat_note ~h:harm ~a:mel ~w:repeat_note
+[27]    <viwu|ii|i|rsuu> r:scale s:scale u:rhythm-u v:scale w:scale ~i:sparse (v<r, w<s) # (v<r-u, w<s-p)
+[28]    <r(sr)sr|uu|u|rsrr> u:rhythm ~r:scale ~s:scale
+[29]    <hhhr|hs|u|aiir> h:harm r:repeat_note s:rhythm u:rhythm a:mel i:repeat_note {CR 0.5 s[29-32]u[29-32]}
+[30]    <hhhr|ls|u|aiir> l:arp ~h:harm ~r:repeat_note ~s:rhythm ~u:rhythm ~a:mel ~i:repeat_note {CR 0.5 s[29-32]u[29-32]}
+[31]    <hhhr|hs|u|aiir> ~h:harm ~r:repeat_note ~s:rhythm ~u:rhythm ~a:mel ~i:repeat_note {CR 0.5 s[29-32]u[29-32]}
+[32]    <hhhr|ls|u|aiir> ~l:arp ~h:harm ~r:repeat_note ~s:rhythm ~u:rhythm ~a:mel ~i:repeat_note {CR 0.5 s[29-32]u[29-32]}
+[33]    <0000|00|0|aa00> ~a:mel-u
+[34]    <abba|rr|r|aaaa> b:mel-u r:rhythm ~a:mel-u # (HR :br, b<a)
+
+#!P """""""" Theme A """"""""
+[35]    <hbbs|rr|r|ahhs> a:mel h:harm s:scale-u ~b:mel-u ~r:rhythm
+[36-40] <h00s|00|0|ahhs> ~a:mel ~h:harm ~s:scale-u
+[41-42] <hhha|hh|r|iiaa> a:mel-u h:harm r:rhythm i:arp-u
+[43-45] <hhha|ss|r|bbaa> s:rhythm b:mel-u ~a:mel-u ~h:harm ~r:rhythm (s<r)
+[46-47] <hhha|00|0|bbaa> ~h:harm ~a:mel-u ~b:mel-u
+
+#!S """""""" Theme B """"""""
+[48-49] <000h|h0|0|rras> h:harm r:rhythm s:sparse ~a:mel
+[50-55] <000h|h0|0|bcas> b:mel c:mel ~h:harm ~s:sparse ~a:mel {CR 1 b[50-55]c[50-55]} # CR 1 is not so true, it switch in the middle of the bac
+[56-57] <00hh|h0|0|bcas> ~b:mel ~c:mel ~h:harm s:repeat_note ~a:mel
+[58]    <v0u0|00|0|r000> r:scale u:scale-u v:scale-u (u<r, v<r)
+
+#!P """""""" Theme A """"""""
+[59-62] <aaab|aa|a|aabb> a:mel-h b:rhythm-u
+[63-64] <ahhb|ii|0|aabb> h:harm i:sparse ~a:mel-h ~b:rhythm-u
+[65]    <ahhb|hh|0|aabb> ~h:harm ~a:mel-h ~b:rhythm-u
+[66]    <0000|00|0|rr00> r:repeat_note-u
+
+#!C """""""" Codetta """"""""
+[67]    <haha|hh|s|rr00> h:harm a:harm-h s:rhythm ~r:repeat_note-u
+[68]    <hahs|hs|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:osc-u
+[69]    <haha|hh|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:repeat_note-u
+[70]    <hahs|hs|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:osc-u
+[71-72] <0a0a|00|0|iiii> i:sparse ~a:harm-h
+[73]    <0l0l|00|0|iiii> l:sparse ~i:sparse {CR 0.25 i[73]l[73]}
+[74]    <tttt|hh|r|tttt> t:mel-u h:harm-u r:rhythm
+[75-79] <tttt|00|0|tttt> ~t:mel-u # Some instruments have trills while others have not
+[80]    <hhia|ai|0|llaa> h:harm i:harm a:mel-p l:repeat_note
+[81]    <hh0a|ai|0|llaa> ~h:harm ~i:harm ~a:mel-p ~l:repeat_note
+[82-83] <hhha|ai|0|llaa> ~h:harm ~i:harm ~a:mel-p ~l:repeat_note
+[84-85] <mmms|nn|n|bbss> m:rhythm s:rhythm n:sparse b:mel-u (n<s)
+[86-87] <hhhs|hh|0|bbss> h:harm ~s:rhythm ~b:mel-u
+[88-91] <aaar|uv|s|awrr> a:mel-h r:repeat_note u:rhythm v:rhythm s:rhythm w:repeat_note {CR 1 u[88,90]v[89,91]} (u<r, v<r) # The melody is not exactly in homorhythm since the violinI has additional notes
+[92]    <0000|00|0|aa00> a:mel-u
+[93]    <aaaa|hh|h|aaaa> h:sparse ~a:mel-u
+[94]    <tttt|tt|t|tttt> t:rhythm
+
+#!Dev """""""" DEVELOPPEMENT """"""""
+[95]    <000h|h0|0|0a0h> h:harm a:melc
+[96]    <000h|h0|0|0ahh> ~h:harm ~a:melc
+[97-98] <000h|h0|0|bahh> b:melc ~h:harm ~a:melc # b is in canon with a
+[99]    <000h|h0|0|baah> ~b:melc ~h:harm ~a:melc
+[100]   <000h|h0|0|bahh> ~b:melc ~h:harm ~a:melc
+[101-102]   <000c|00|0|ddcc> c:sparse-u d:mel-p
+[103-104]   <000i|00|0|iiii> i:osc
+[105]       <hhhh|hh|0|arrh> h:harm a:melc r:repeat_note
+[106]       <hhhh|hh|0|arr0> ~h:harm ~a:melc ~r:repeat_note
+[107-109]   <hhhh|hh|0|arrb> b:melc ~h:harm ~a:melc ~r:repeat_note
+[110]       <hhhh|hh|0|rrrb> ~b:melc ~h:harm ~r:repeat_note
+[111-114]   <hhhh|00|0|rrrs> s:rhythm ~h:harm ~r:repeat_note
+[115]       <(h0)000|00|0|suuu> s:repeat_note u:osc-p ~h:harm
+[116]       <0r0r|00|0|suuu> r:scale-p ~s:repeat_note ~u:osc-p
+[117]       <0000|00|0|0ahs> a:melc h:harm s:arp
+[118]       <0000|00|0|0ahs> ~a:melc ~h:harm ~s:arp
+[119]       <0(u0)00|00|0|bahs> b:melc u:rhythm ~a:melc ~h:harm ~s:arp
+[120]       <0(u0)00|00|0|bahs> ~b:melc ~u:rhythm ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[121]       <000(v0)|00|0|bahs> v:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[122]       <000(v0)|00|0|bahs> ~v:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[123]       <0(u0)00|00|0|bahs> ~u:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[124]       <0(u0)00|00|0|bahs> ~u:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[125]       <000(v0)|00|0|bahs> ~v:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[126]       <000(v0)|00|0|bahs> ~v:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[127]       <0(u0)00|00|0|bahs> ~u:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+[128]       <0(u0)00|00|0|bahs> ~u:rhythm ~b:melc ~a:melc ~h:harm ~s:arp {TE 2 u[119-120]v[121-122]u[123-124]v[125-126]u[127-128]}
+
+# """""""" RECAPITULATION """"""""
+#!P' """""""" Theme A """"""""
+[129-131]   <tttt|tt|t|tttt> t:mel-u
+[132-133]   <tttt|rr|r|tttt> r:rhythm ~t:mel-u
+[134]       <0000|00|0|a000> a:mel
+[135]       <000h|00|0|ahhh> h:harm ~a:mel
+[136]       <0000|00|0|a000> ~a:mel
+[137]       <000h|00|0|ahhh> ~h:harm ~a:mel
+[138-140]   <000r|00|0|arrr> r:sparse ~a:mel
+
+[141]       <00aa|rs|u|0vaa> a:mel-u r:rhythm s:rhythm u:rhythm v:repeat_note
+[142]       <00aa|rs|0|0vaa> ~a:mel-u ~r:rhythm ~s:rhythm ~v:repeat_note {CR 1 r[142,144]s[143,145]}
+[143-144]   <bbaa|rs|s|bvaa> b:mel-u ~a:mel-u ~r:rhythm ~s:rhythm ~v:repeat_note {CR 1 r[142,144]s[143,145]}
+[145]       <bb0a|rs|s|bvaa> ~b:mel-u ~a:mel-u ~r:rhythm ~s:rhythm ~v:repeat_note {CR 1 r[142,144]s[143,145]}
+[146]       <bhba|rr|r|bvaa> h:harm ~b:mel-u ~a:mel-u ~r:rhythm ~v:repeat_note
+[147-148]   <hhha|hh|h|bbaa> ~h:harm ~b:mel-u ~a:mel-u
+[149-153]   <hhha|rr|r|bbaa> ~h:harm ~b:mel-u ~a:mel-u ~r:rhythm
+
+#!S' """""""" Theme B """"""""
+[154]       <0000|h0|0|bbar> h:harm a:mel b:mel-p r:sparse
+[155-161]   <000h|h0|0|bcar> c:mel ~h:harm ~a:mel ~b:mel ~r:sparse
+[162-163]   <000h|h0|0|bcar> ~c:mel ~h:harm ~a:mel ~b:mel r:repeat_note
+[164]       <v0u0|00|0|r000> r:scale u:scale-u v:scale-u (u<r, v<r)
+[165-168]   <aaab|aa|a|aabb> a:mel-h b:rhythm-u
+[169-171]   <ahhb|ii|i|aabb> h:harm i:sparse ~a:mel-h ~b:rhythm-u
+[172]       <0000|ii|i|rr00> r:repeat_note-u ~i:sparse
+
+#!C' """""""" Codetta """"""""
+[173]       <haha|0h|s|rr00> h:harm a:harm-h s:rhythm ~r:repeat_note-u
+[174]       <hahs|0s|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:osc-u
+[175]       <haha|0h|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:repeat_note-u
+[176]       <hahs|0s|s|rr00> ~h:harm ~a:harm-h ~s:rhythm r:osc-u
+[177-178]   <0a0a|00|0|iiii> i:sparse ~a:harm-h
+[179]       <0l0l|00|0|iiii> l:sparse ~i:sparse {CR 0.25 i[179]l[179]}
+[180]       <tttt|hh|r|tttt> t:mel-u h:harm-u r:rhythm
+[181-185]   <tttt|00|0|tttt> t:mel-u # Some instruments have trills while others have not
+[186-189]   <hhha|hr|r|llaa> r:rhythm h:harm a:mel-p l:repeat_note
+[190-191]   <mmms|nn|n|bbss> m:rhythm s:rhythm n:sparse b:mel-u (n<s)
+[192-193]   <hhhs|hh|r|bbss> r:rhythm h:harm ~s:rhythm ~b:mel-u
+[194-195]   <(ah)(ah)hr|hh|s|auur> a:mel-u h:harm r:repeat_note s:rhythm u:repeat_note
+[196]       <(ah)(ah)hr|rh|s|auur> ~a:mel-u ~h:harm ~r:repeat_note ~s:rhythm ~u:repeat_note
+[197]       <(ah)(ah)hr|hr|r|auur> ~a:mel-u ~h:harm ~r:repeat_note ~u:repeat_note
+[198]       <0000|00|0|s000> s:scale
+[199]       <ssuu|uu|v|ssuu> u:arp v:rhythm ~s:scale
+[200-201]   <uuuu|uu|v|ssuu> ~u:arp ~v:rhythm ~s:scale
+[202-204]   <tttt|tt|t|tttt> t:rhythm
+
+
+
