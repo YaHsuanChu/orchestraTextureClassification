@@ -1,0 +1,9 @@
+The score of haydn symphonies was in humdrum format (.krn)
+1. Use Verovio Humdrum Viewer to convert to musicxml file (The humdrum parser in music21 does will crash)
+2. Use Musecore to open musicxml file and export to musicxml file again because the musicxml exported by verovio cannot be parsed by music21
+3. For making piano rolls, export MIDI file with muse directly 
+
+Note. 
+hob102.musicxml exported from verovio is damaged and cannot be opened by musecore
+Instead, I found the MIDI file of that piece on KernScores : http://kern.humdrum.org/search?s=t&keyword=symphony
+Then open MIDI file with musecore then export as musicxml
