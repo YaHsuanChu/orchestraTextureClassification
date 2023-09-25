@@ -1,4 +1,4 @@
-# Orchestral Texture Classification woth Convolution
+# Orchestral Texture Classification with Convolution
 
 We have investigated the classification of different textural elements in orchestral symbolic music data. A simple convolutional neural network (CNN) is utilized to perform the classification task in a track-wise and bar-wise manner. Preliminary results are reported, and different training parameters, including the use of contextual data and the combination of tracks, are also discussed. 
 
