@@ -17,6 +17,7 @@ We have investigated the classification of different textural elements in orches
 | `/data_processing/PianoRollsDataset.py`  | Object extend to Pytorch Dataset object to manage the selection of training examples by bar|
 | `/src/` | contains code for parsing *.orch* files  |
 | `/model/ ` | store trained models |
+| `/dataset/` | including annotations, *.musicxml*, *MIDI*, and converted pianorolls (*.npy* files) |
 | `/result/` | perpformance metrics saved here |
 
 
