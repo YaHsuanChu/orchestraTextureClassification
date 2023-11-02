@@ -8,7 +8,7 @@ We have investigated the classification of different textural elements in orches
 ## Structure of the code and files
 
 
-| file / folder | description|
+| File / folder | Description|
 | -------- | -------- |
 |`train.py`| Trains and evaluates the model <br /> **input and training settings can be modified in this file**|
 | `make_piano_rolls.py` | Parse *.musicxml* files and convert to piano rolls as numpy arrays |
@@ -28,9 +28,9 @@ We have investigated the classification of different textural elements in orches
 ### Files and folders in `/dataset`
 
 
-| folder | content |
+| Folder | Content |
 | -------- | -------- |
-| `/annotaions/` |  labels of each pieces (numpy arrays) are stored in *.npy* files, the original *.orch* files are in `/{nameOfAuthor}` folders |
+| `/annotaions/` |  Labels of each pieces (numpy arrays) are stored in *.npy* files, the original *.orch* files are in `/{nameOfAuthor}` folders |
 | `/score_xml/`  | *.musicxml* files : original digital scores    |
 | `/scores_midi/` | *MIDI* files converted from *.musicxml* files are sourced |
-| `/score_pianoroll/` | piano roll (numpy array) are stored as  *.npy* files   |
+| `/score_pianoroll/` | Piano roll (numpy array) are stored as  *.npy* files   |
