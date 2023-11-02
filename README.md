@@ -10,15 +10,15 @@ We have investigated the classification of different textural elements in orches
 
 | file / folder | description|
 | -------- | -------- |
-|`train.py`| trains and evaluate the model <br /> **input and training settings can be modified in this file**|
+|`train.py`| Trains and evaluates the model <br /> **input and training settings can be modified in this file**|
 | `make_piano_rolls.py` | Parse *.musicxml* files and convert to piano rolls as numpy arrays |
 | `organize_annotations.py`| Parse *.orch* files and store the labels as numpy arrays |
 | `/data_processing/pianoRoll.py` | Object defined to handle, access and manipulate piano rolls |
 | `/data_processing/PianoRollsDataset.py`  | Object extend to Pytorch Dataset object to manage the selection of training examples by bar|
-| `/src/` | contains code for parsing *.orch* files  |
-| `/model/ ` | store trained models |
-| `/dataset/` | including annotations, *.musicxml*, *MIDI*, and converted pianorolls (*.npy* files) |
-| `/result/` | perpformance metrics saved here |
+| `/src/` | Contains code for parsing *.orch* files  |
+| `/model/ ` | Stores trained models |
+| `/dataset/` | Including annotations, *.musicxml*, *MIDI*, and converted pianorolls (*.npy* files) |
+| `/result/` | Performance metrics saved here |
 
 
 ## Dataset
